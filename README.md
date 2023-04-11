@@ -1,2 +1,2 @@
-# brazilian-utils
-A collection of brazilian utils such as CPF, CNPJ, PIX validators and more
+# document-utils
+A collection of utils such as brazilian CPF, CNPJ, PIX validators and more
